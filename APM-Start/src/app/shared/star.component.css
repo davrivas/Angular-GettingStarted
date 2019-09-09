@@ -4,3 +4,7 @@
 div {
   cursor: pointer;
 }
+
+.custom-star {
+  color: gold;
+}
